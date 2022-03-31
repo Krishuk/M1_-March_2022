@@ -11,6 +11,9 @@ A Simple Software for Examination Management System that can perform the followi
 4. Check Eligible Students for Exams
 5. Print all the records of the students
 
+## Code Quality
+![image 1](https://api.codiga.io/project/32274/score/svg)
+![image 1](https://api.codiga.io/project/32274/status/svg)
 
 ## Folder Structure
 |Folder|Description|
